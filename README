@@ -1,0 +1,6 @@
+Plugin for interacting with the exoplatform container when running as a portlet inside it.
+
+It has been retired since it hasn't been maintained for years.
+
+This extension uses the plugin technology which has been deprecated and is now replaced by Components.
+If someone is interested in improving this extension, we recommend rewriting it as components.
